@@ -1,0 +1,10 @@
+A: [-15.0,  0.0, 1.0]
+B: [ 10.0,  6.0, 1.0]
+C: [ 10.0, -6.0, 1.0]
+D: [ -5.0, -6.0, 1.0]
+
+tolerance: 0.5       
+hold_time: 1.0       
+flight_height: 1.0   
+goal_timeout: 40.0   
+max_attempts: 2     

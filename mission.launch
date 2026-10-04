@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="lab_martynenko" type="mission" name="mission" output="screen" required="true">
+    <rosparam file="$(dirname)/../config/points.yaml" command="load" />
+  </node>
+</launch>
